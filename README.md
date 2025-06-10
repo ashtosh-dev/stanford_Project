@@ -17,19 +17,13 @@ A fun command-line quiz game that fetches real-time headlines from popular websi
 - Play until you type `q` or `quit` to exit
 - Keeps track of your final score
 
-## 🛠️ Requirements
-
-# Contents of requirements.txt
-
+# Requirements
 requests==2.32.3
 beautifulsoup4==4.13.4
 
 # Install dependencies :
-
 pip install -r requirements.txt
 
 # How to Play
-
 python main.py
-
 Then choose a topic (1–4) or type q to quit.
