@@ -1,4 +1,4 @@
-# CLI Quiz Game 🧠🎮
+# CLI Quiz Game 🎮
 
 A fun command-line quiz game that fetches real-time headlines from popular websites and turns them into trivia questions! Choose your topic, test your knowledge, and see how many you can get right.
 
