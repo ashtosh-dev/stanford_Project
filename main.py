@@ -2,7 +2,7 @@ from topics import TOPIC_URLS
 from scraper import scrape_headlines
 from quiz import build_questions, ask_question
 
-def play_game():
+def main():
     print("\n===== QUIZ GAME =====")
     for key, (name, _) in TOPIC_URLS.items():
         print(f"{key}. {name}")
@@ -49,4 +49,4 @@ def play_game():
     print(f"\nGame Over! You scored {score}/{total}\nThanks for playing!\n")
 
 if __name__ == "__main__":
-    play_game()
+    main()
