@@ -22,7 +22,7 @@ A fun command-line quiz game that fetches real-time headlines from popular websi
 requests==2.32.3
 beautifulsoup4==4.13.4
 
-# Install dependencies :
+# Install dependencies
 
 pip install -r requirements.txt
 
